@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:11152D,45:5141A8,100:08BDBA&text=AYUSH%20MISRA&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=FOUNDER%20%20%7C%20%20PRODUCT%20BUILDER%20%20%7C%20%20DEVELOPER&descSize=15&descAlignY=62&animation=fadeIn&stroke=9B8CFF&strokeWidth=1" width="100%" alt="Ayush Misra - Founder and Developer"/>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:151633,45:5141A8,100:08BDBA&text=AYUSH%20MISRA&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=FOUNDER%20%26%20DIRECTOR%20%20%E2%80%A2%20%20PRODUCT%20BUILDER%20%20%E2%80%A2%20%20WEB%20%26%20MOBILE%20DEVELOPER&descSize=15&descAlignY=58&animation=fadeIn&section=header" width="100%" alt="Ayush Misra - Founder and Director"/>
+
+</div>
 
 <a href="https://ayushmisra.kartsho.com"><img src="https://img.shields.io/badge/PORTFOLIO-7C6CF2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://kartsho.com"><img src="https://img.shields.io/badge/KARTSHO-11152D?style=for-the-badge&logo=buildkite&logoColor=77D8CE" /></a>
