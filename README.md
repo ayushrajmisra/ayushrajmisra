@@ -1,24 +1,49 @@
+
+<div align="center">
+
 # 👋 Hey, I'm Ayush Misra
 
 ### Founder & Director · Product Builder · Web & Mobile App Developer
 
-I’m a builder at the intersection of **technology, business operations, and community leadership**. I enjoy turning ideas into practical digital products, building teams, and creating solutions that make a difference.
+**Building digital products. Leading teams. Creating real-world impact.**
 
-Currently leading operations and administration at **Kartsho Solutions**, while exploring web technologies, AI-powered products, and digital innovation.
+<p>
+  <a href="https://ayushmisra.kartsho.com">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/misraayush">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:ayush@kartsho.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayushrajmisra.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/misraayush)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushrajmisra)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajayushmisra@gmail.com)
+</div>
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 About Me
 
-- **Kartsho Solutions** — Building and managing digital initiatives, business operations, and technology-driven solutions.
-- **LawDalat** — Exploring legal-tech solutions and digital access to legal services.
-- **Career Craft AI** — Working on AI-powered resume analysis and career improvement concepts.
-- **Digital Products** — Experimenting with web applications, user experiences, and practical digital tools.
+I'm **Ayush Misra**, a founder and technology enthusiast interested in building useful digital products, developing web and mobile applications, and turning ideas into practical solutions.
+
+Currently, I'm building and leading initiatives at **Kartsho Solutions Private Limited**, working across product development, business operations, technology and digital innovation.
+
+- 💼 Founder & Director at [Kartsho Solutions](https://kartsho.com)
+- 💻 Interested in web development, mobile applications and AI-powered products
+- 🧠 Exploring product strategy, business operations and technology
+- 🌱 Passionate about leadership, community development and social impact
+- 📍 Pratapgarh, Uttar Pradesh, India
+- 📧 **ayush@kartsho.com**
+
+## 🏗️ What I'm Building
+
+| Project | About |
+|---|---|
+| **Kartsho Solutions** | Building digital initiatives, business operations and technology-driven solutions. |
+| **LawDalat** | Exploring legal-tech solutions and digital access to legal services. |
+| **Career Craft AI** | Working on AI-powered resume analysis and career improvement concepts. |
+| **Digital Products** | Experimenting with web applications, user experiences and practical digital tools. |
 
 ## 💻 Tech Stack & Tools
 
@@ -47,67 +72,79 @@ Currently leading operations and administration at **Kartsho Solutions**, while 
 
 **Beyond Technology**
 
-Business Operations · Team Leadership · Product Planning · UI/UX · Digital Marketing · Business Compliance · Community Engagement
-
----
+Business Operations · Product Planning · Team Leadership · UI/UX · Digital Marketing · Business Compliance · Community Engagement
 
 ## 🌟 Featured Projects
 
-| Project | Description | Technology |
+### 1. [Ayush Misra — Personal Portfolio](https://ayushmisra.kartsho.com)
+My personal portfolio showcasing my work, experience, projects and professional journey.
+
+### 2. [AI Resume Analyzer](https://github.com/ayushrajmisra/AI-Resume-Analyzer)
+An AI-driven resume analysis platform focused on keyword matching, skill-gap analysis and career improvement.
+
+### 3. [Portfolio — Classic](https://github.com/ayushrajmisra/portfolio)
+An earlier personal portfolio website built using HTML, CSS and Tailwind.
+
+### 4. LawDalat
+Exploring legal technology and accessible digital solutions for legal services.
+
+## 🌍 Leadership & Community Impact
+
+I believe technology becomes more meaningful when combined with leadership, teamwork and community participation.
+
+- 🌱 **NSS Cabinet Head (2024–25):** Led and coordinated volunteer initiatives involving 100+ NSS volunteers.
+- 🌍 **GreenX Club Manager (2023–24):** Contributed to environmental awareness and sustainability initiatives.
+- ♻️ **Plafthon Initiative:** Contributed to an initiative involving more than 1,000 kg of waste.
+- 🏆 **Volunteer of the Year:** Recognised by the Governor of Uttarakhand.
+- 🎯 **Utkrisht Tech Fest Coordinator:** Contributed to organising a college-level technology event.
+- 📢 **JAI Youth Wing Secretary (2025):** Contributed to youth engagement and coordination.
+
+## 💼 Experience
+
+| Role | Organisation | Period |
 |---|---|---|
-| [AI Resume Analyzer](https://github.com/ayushrajmisra/AI-Resume-Analyzer) | AI-driven resume analysis and career improvement platform | CSS |
-| [Personal Portfolio](https://github.com/ayushrajmisra/ayush-portfolio) | My modern personal portfolio website | React / JavaScript |
-| [Portfolio – Classic](https://github.com/ayushrajmisra/portfolio) | Earlier personal portfolio project | HTML / CSS |
-
----
-
-## 🤝 Leadership & Community
-
-Technology is only one part of my journey. I also believe in leadership, teamwork, and giving back to society.
-
-- 🌱 **NSS Cabinet Head** — Led and coordinated volunteer initiatives involving 100+ NSS volunteers.
-- 🌍 **GreenX Club Manager** — Contributed to environmental and social awareness activities.
-- 🏆 Recognised as **Volunteer of the Year** by the Governor of Uttarakhand.
-- 🎯 **Utkrisht Tech Fest Coordinator** — Contributed to organising a college-level technology event.
-- 📢 **JAI Youth Wing Secretary** — Contributed to youth engagement and coordination.
-
----
-
-## 📊 GitHub Overview
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushrajmisra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ayush's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrajmisra&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ayushrajmisra&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
----
+| Founder & Director | Kartsho Solutions | 2026 – Present |
+| Secretary | JAI Youth Wing | 2025 |
+| Coordinator | Utkrisht Tech Fest | Nov 2024 |
+| Communication & Marketing Intern | HimalayanBuzz Admedia LLP | Nov 2024 – Feb 2025 |
+| NSS Cabinet Head | Tula's Institute | 2024 – 2025 |
+| GreenX Club Manager | Tula's Institute | 2023 – 2024 |
+| Research & Operations Intern | PM Krishi Sinchai Yojana – ICSSR Project | — |
 
 ## 🎓 Education
 
 **Bachelor of Computer Applications (BCA)**  
-Tula's Institute, Dehradun · 2022–2025
+Tula's Institute, Dehradun  
+2022 – 2025
 
----
+## 📊 GitHub Overview
 
-## 📬 Let's Connect
+<div align="center">
 
-I'm always interested in collaborating on meaningful products, technology projects, and entrepreneurial ideas.
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushrajmisra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ayush's GitHub statistics" />
 
-- 📧 **Email:** ayush@kartsho.com
-- 💼 **LinkedIn:** [linkedin.com/in/misraayush](https://linkedin.com/in/misraayush)
-- 🌐 **Portfolio:** [Visit my website](https://ayushrajmisra.github.io/portfolio/)
-- 📍 **Location:** Uttar Pradesh, India
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrajmisra&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
----
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrajmisra&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 🤝 Let's Connect
+
+I'm always open to meaningful collaborations, interesting product ideas, technology projects and entrepreneurial opportunities.
 
 <p align="center">
-  <i>"Build with purpose. Lead with responsibility. Keep learning."</i>
+  <a href="https://ayushmisra.kartsho.com">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/misraayush">LinkedIn</a> ·
+  <a href="https://github.com/ayushrajmisra">GitHub</a> ·
+  <a href="https://www.instagram.com/ayushatkartsho/">Instagram</a> ·
+  <a href="mailto:ayush@kartsho.com">Email</a>
 </p>
 
-<p align="center">
-  ⭐ If you find my projects interesting, consider giving them a star!
-</p>
+<div align="center">
+
+### "Build with purpose. Lead with responsibility. Keep learning."
+
+⭐ If you find my projects interesting, consider giving them a star!
+
+</div>
