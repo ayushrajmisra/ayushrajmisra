@@ -1,91 +1,117 @@
-# 👋 Hey, I'm Ayush Misra
+<!-- AYUSH MISRA | FOUNDER EDITION -->
 
-### Founder & Director · Product Builder · Web & Mobile Developer
+<h1 align="center">AYUSH MISRA</h1>
 
-**Building digital products. Leading teams. Creating real-world impact.**
+<h3 align="center">FOUNDER & DIRECTOR · PRODUCT BUILDER · TECHNOLOGIST</h3>
 
-I'm a technology enthusiast and entrepreneur passionate about building useful digital products, developing web and mobile applications, and turning ideas into practical solutions.
+<p align="center">
+  <b>Building digital products. Leading teams. Creating real-world impact.</b>
+</p>
 
-Currently, I lead initiatives at **Kartsho Solutions Private Limited**, working across product development, business operations, technology and digital innovation.
-
-- 🚀 Founder & Director at Kartsho Solutions
-- 💻 Building web and mobile applications
-- 🧠 Exploring AI-powered products and digital innovation
-- 🤝 Interested in product strategy, business operations and leadership
-- 🌱 Passionate about community development and social impact
-- 📍 Pratapgarh, Uttar Pradesh, India
-- 📧 ayush@kartsho.com
-
----
-
-## 🏗️ What I'm Building
-
-| Project | Description |
-|---|---|
-| **Kartsho Solutions** | Building digital initiatives, business operations and technology-driven solutions. |
-| **LawDalat** | Exploring legal-tech solutions and digital access to legal services. |
-| **Career Craft** | An academic project exploring AI-powered resume analysis and career improvement. |
-| **Digital Products** | Experimenting with web applications, user experiences and practical digital tools. |
-
-## 💻 Technical Skills
-
-**Frontend Development**
-
-HTML5 · CSS3 · JavaScript · React · Tailwind CSS
-
-**Mobile & Application Development**
-
-React Native · FlutterFlow
-
-**Backend & Database**
-
-Python · Firebase · MySQL
-
-**Tools & Platforms**
-
-Git · GitHub · VS Code · WordPress · Canva
-
-**Business & Product Skills**
-
-Product Planning · Business Operations · Team Leadership · UI/UX · Digital Marketing · Business Compliance
+<p align="center">
+  <a href="https://ayushmisra.kartsho.com">Portfolio</a> ·
+  <a href="https://kartsho.com">Kartsho Solutions</a> ·
+  <a href="https://www.linkedin.com/in/misraayush">LinkedIn</a> ·
+  <a href="mailto:ayush@kartsho.com">Contact</a>
+</p>
 
 ---
 
-## 🌟 Featured Projects
+## THE PERSON BEHIND THE PRODUCTS
 
-### 1. [Ayush Misra — Personal Portfolio](https://github.com/ayushrajmisra/ayush-portfolio)
-My current professional portfolio showcasing my work, experience, projects and professional journey.
+I'm Ayush Misra, Founder & Director at **Kartsho Solutions Private Limited**.
 
-**Live:** https://ayushmisra.kartsho.com
+I work at the intersection of technology, entrepreneurship and product development. My focus is on turning practical ideas into useful digital experiences, building products and bringing people together to create meaningful outcomes.
 
-### 2. [Career Craft — AI Resume Analyzer](https://github.com/ayushrajmisra/AI-Resume-Analyzer)
-An academic major project developed during my BCA journey, exploring resume keyword matching, skill-gap analysis and career guidance.
+Currently focused on:
 
-### 3. [Classic Personal Portfolio](https://github.com/ayushrajmisra/portfolio)
-An earlier personal portfolio website built using HTML, CSS and Tailwind CSS.
+- Building and developing digital products.
+- Web and mobile application development.
+- Product strategy and business operations.
+- Technology-driven solutions and innovation.
+- Leadership, collaboration and community impact.
 
-### 4. LawDalat
-Exploring legal technology and accessible digital solutions for legal services.
-
----
-
-## 🌍 Leadership & Community Impact
-
-I believe technology becomes more meaningful when combined with leadership, teamwork and community participation.
-
-- 🌱 **NSS Cabinet Head (2024–25):** Led and coordinated volunteer initiatives involving 100+ NSS volunteers.
-- 🌍 **GreenX Club Manager (2023–24):** Contributed to environmental awareness and sustainability initiatives.
-- ♻️ **Plafthon Initiative:** Contributed to an initiative involving more than 1,000 kg of waste.
-- 🏆 **Volunteer of the Year:** Recognised by the Governor of Uttarakhand.
-- 🎯 **Utkrisht Tech Fest Coordinator:** Contributed to organising a college-level technology event.
-- 📢 **JAI Youth Wing Secretary (2025):** Contributed to youth engagement and coordination.
+**Based in:** Pratapgarh, Uttar Pradesh, India.
 
 ---
 
-## 💼 Experience
+## VENTURES & PROJECTS
 
-| Role | Organisation | Period |
-|---|---|---|
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### KARTSHO SOLUTIONS
+**Business · Technology · Digital Innovation**
+
+Building digital initiatives and technology-driven solutions.
+
+<a href="https://kartsho.com">Explore Kartsho ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### LAWDALAT
+**Legal Technology**
+
+Exploring digital solutions for improved access to legal services.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### CAREER CRAFT
+**Academic Project · AI Concepts**
+
+A BCA major project exploring resume analysis, keyword matching and skill-gap concepts.
+
+<a href="https://github.com/ayushrajmisra/AI-Resume-Analyzer">View Repository ↗</a>
+
+</td>
+<td width="50%" valign="top">
+
+### PERSONAL PORTFOLIO
+**Web Development**
+
+My professional portfolio and an earlier HTML-based portfolio project.
+
+<a href="https://github.com/ayushrajmisra/ayush-portfolio">Current Portfolio ↗</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+## TECHNOLOGY & EXPERTISE
+
+**01 — FRONTEND & WEB**
+
+`HTML5` `CSS3` `JavaScript` `React` `Tailwind CSS`
+
+**02 — MOBILE & APPLICATIONS**
+
+`React Native` `FlutterFlow`
+
+**03 — BACKEND & DATABASE**
+
+`Python` `Firebase` `MySQL`
+
+**04 — TOOLS & WORKFLOW**
+
+`Git` `GitHub` `VS Code` `WordPress` `Canva`
+
+**05 — BEYOND CODE**
+
+Product Planning · Business Operations · UI/UX · Team Leadership · Digital Marketing · Business Compliance
+
+---
+
+## PROFESSIONAL JOURNEY
+
+| Position | Organisation | Timeline |
+|:--|:--|:--|
 | Founder & Director | Kartsho Solutions | 2026 – Present |
 | Secretary | JAI Youth Wing | 2025 |
 | Coordinator | Utkrisht Tech Fest | Nov 2024 |
@@ -94,35 +120,66 @@ I believe technology becomes more meaningful when combined with leadership, team
 | GreenX Club Manager | Tula's Institute | 2023 – 2024 |
 | Research & Operations Intern | PM Krishi Sinchai Yojana – ICSSR Project | — |
 
-## 🎓 Education
+---
 
-**Bachelor of Computer Applications (BCA)**  
+## LEADERSHIP & COMMUNITY
+
+I believe meaningful technology is built by people who understand responsibility, collaboration and the world around them.
+
+- **NSS Cabinet Head:** Coordinated volunteer initiatives involving 100+ NSS volunteers.
+- **GreenX Club Manager:** Contributed to sustainability and environmental awareness initiatives.
+- **Plafthon Initiative:** Contributed to an initiative involving more than 1,000 kg of waste.
+- **Volunteer of the Year:** Recognised by the Governor of Uttarakhand.
+- **Utkrisht Tech Fest:** Contributed as event coordinator.
+- **JAI Youth Wing:** Served as Secretary in 2025.
+
+---
+
+## EDUCATION
+
+**Bachelor of Computer Applications (BCA)**
+
 Tula's Institute, Dehradun  
 2022 – 2025
 
 ---
 
-## 📊 GitHub Activity
+## SELECTED WORK
 
-I believe in building consistently, learning continuously and improving through practical work.
-
-Explore my repositories to discover my projects, experiments and development journey.
-
----
-
-## 🤝 Let's Connect
-
-I'm open to meaningful collaborations, interesting product ideas, technology projects and entrepreneurial opportunities.
-
-- 🌐 [Portfolio](https://ayushmisra.kartsho.com)
-- 🏢 [Kartsho Solutions](https://kartsho.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/misraayush)
-- 💻 [GitHub](https://github.com/ayushrajmisra)
-- 📸 [Instagram](https://www.instagram.com/ayushatkartsho/)
-- 📧 [Email](mailto:ayush@kartsho.com)
+<p align="center">
+  <a href="https://github.com/ayushrajmisra/ayush-portfolio">
+    <img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Repository-D8BD82?style=for-the-badge&labelColor=101A30" alt="Portfolio"/>
+  </a>
+  <a href="https://github.com/ayushrajmisra/AI-Resume-Analyzer">
+    <img src="https://img.shields.io/badge/CAREER%20CRAFT-Academic%20Project-D8BD82?style=for-the-badge&labelColor=101A30" alt="Career Craft"/>
+  </a>
+  <a href="https://github.com/ayushrajmisra/portfolio">
+    <img src="https://img.shields.io/badge/CLASSIC%20PORTFOLIO-Explore-D8BD82?style=for-the-badge&labelColor=101A30" alt="Classic Portfolio"/>
+  </a>
+</p>
 
 ---
 
-**"Build with purpose. Lead with responsibility. Keep learning."**
+## LET'S BUILD SOMETHING MEANINGFUL
 
-⭐ If you find my projects interesting, consider giving them a star!
+Open to thoughtful collaborations, technology projects, product ideas and entrepreneurial opportunities.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/misraayush">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-101A30?style=for-the-badge&logo=linkedin&logoColor=D8BD82" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/ayushatkartsho/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-101A30?style=for-the-badge&logo=instagram&logoColor=D8BD82" alt="Instagram"/>
+  </a>
+  <a href="mailto:ayush@kartsho.com">
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-101A30?style=for-the-badge&logo=gmail&logoColor=D8BD82" alt="Email"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>BUILD WITH PURPOSE. LEAD WITH RESPONSIBILITY. KEEP LEARNING.</b>
+</p>
+
+<p align="center">
+  <sub>© Ayush Misra · Personal GitHub Profile</sub>
+</p>
