@@ -117,17 +117,22 @@ I believe technology becomes more meaningful when combined with leadership, team
 Tula's Institute, Dehradun  
 2022 – 2025
 
-## 📊 GitHub Overview
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ayushrajmisra&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Ayush's GitHub statistics" />
+[![GitHub](https://img.shields.io/badge/GitHub-ayushrajmisra-181717?style=for-the-badge&logo=github)](https://github.com/ayushrajmisra)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-0A66C2?style=for-the-badge&logo=github)](https://github.com/ayushrajmisra?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ayushmisra.kartsho.com)
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushrajmisra&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushrajmisra&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+**Building consistently. Learning continuously. Shipping meaningful products.**
 
 </div>
+
+Explore my repositories to see my projects, experiments and development journey.
+
+
 
 ## 🤝 Let's Connect
 
